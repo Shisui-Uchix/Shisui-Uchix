@@ -3,8 +3,7 @@ Hello my name is Davyd Miller
 I'm current learning about java, phyton and c++
 ## Social Media
 <div>
-<a href="https://www.instagram.com/kamii_kx?igsh=NWl2MG1ua2xzZGYx" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://x.com/DavydzxKamii?t=PCL0S3ute52UqM4N2SbEmw&s=09" target="_blank"><img loading="lazy" src="https://i.pinimg.com/736x/8e/72/f7/8e72f7331b652b842b0c271ab144d332.jpg" target="_blank" background color="white"></a>
+<a href="https://www.instagram.com/kamii_kx?igsh=NWl2MG1ua2xzZGYx" target="_blank"><img src= "downloads/inst" max weight= "37px">
 </div>
 
 <!--
