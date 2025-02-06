@@ -2,9 +2,9 @@
 Hello my name is Davyd Miller
 I'm current learning about java, phyton and c++
 ## Social Media
-<body
-<p I'm actually learning this
->
+<div>
+<a href="https://www.instagram.com/kamii_kx?igsh=NWl2MG1ua2xzZGYx" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <!--
 **Shisui-Uchix/Shisui-Uchix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
