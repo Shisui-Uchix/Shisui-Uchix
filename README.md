@@ -2,7 +2,11 @@
 My name is Davyd Miller
 I'm current learning about java, phyton and c++
 And so, I'm a student, and loking for this great world, i wonder be a good people and stay calm and focus.  
-
+# Some about me 🍥
+In the free time, i like to play games and learn other languages
+Actually, i'm learning japanese, and english
+My favorite game is Hollow knight, I really love this game, this take a piece of my heart
+And i realy like to listen music
 <!--
 **Shisui-Uchix/Shisui-Uchix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
