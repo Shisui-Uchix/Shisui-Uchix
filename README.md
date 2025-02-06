@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Davyd Miller
+I'm current learning about java, phyton and c++
+And so, I'm a student, and loking for this great world, i wonder be a good people and stay calm and focus.  
 
 <!--
 **Shisui-Uchix/Shisui-Uchix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
