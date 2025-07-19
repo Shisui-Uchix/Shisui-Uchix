@@ -1,10 +1,6 @@
 # Hi there 👋
 Hello my name is Davyd Miller
 I'm current learning about java, phyton and c++
-## Social Media
-<div>
-<a href="https://www.instagram.com/kamii_kx?igsh=NWl2MG1ua2xzZGYx" target="_blank"><img src="image.png"style = "max-widht:37px;">
-</div>
 <!--
 Lembra de resolver esse botão
 -->
